@@ -1,0 +1,302 @@
+signal,signal-options,amplified-attenuated,subcategory,clean-or-no,secondary-category,unclean-percent,count-in-dataset,annotated-by-one,annotated-by-two,annotated-by-all,comment,ampf-att-clean,%-2-or-more,%-1-or-more,,
+certain items,,attenuated,specification,yes,NA,NA,2,0,1,1,,100.0,1.00,1.00,,Yes
+overly,NA,amplified,intensifier,yes,NA,NA,1,0,1,0,,100.0,1.00,1.00,,Yes
+100%,100 %,amplified,generalization,no,certainty,50-50,2,0,2,0,,100.0,1.00,1.00,,Yes
+absolutely,,amplified,intensifier,no,certainty,60-40,3,0,1,2,,100.0,1.00,1.00,,Yes
+every situation,"all situations, every single situation; any situation",amplified,generalization,yes,NA,NA,2,0,1,1,,100.0,1.00,1.00,,Yes
+as though,,attenuated,uncertanty,no,detensifier,75-25,6,0,2,4,,100.0,1.00,1.00,,Yes
+basically,,amplified,intensifier,yes,NA,NA,1,0,0,1,,100.0,1.00,1.00,,Yes
+no matter if,,amplified,intensifier,no,generalization,50-59,1,0,1,0,,100.0,1.00,1.00,,Yes
+by no means,,amplified,certainty,yes,NA,NA,1,0,1,0,,100.0,1.00,1.00,,Yes
+certain subjects,,attenuated,specification,yes,NA,NA,1,0,1,0,,100.0,1.00,1.00,,Yes
+certainly,,amplified,certainty,yes,NA,NA,1,0,1,0,,100.0,1.00,1.00,,Yes
+extremely,,amplified,intensifier,yes,NA,NA,10,0,4,6,,100.0,1.00,1.00,,Yes
+exceptionally,,amplified,intensifier,yes,NA,NA,1,0,1,0,,100.0,1.00,1.00,,Yes
+except,,attenuated,specification,yes,NA,NA,1,0,1,0,,100.0,1.00,1.00,,Yes
+not sure,,attenuated,uncertainty,yes,NA,NA,2,0,1,1,,100.0,1.00,1.00,,Yes
+SAME ADJ and SAME ADJ,,amplified,intensifier,yes,NA,NA,1,0,1,0,,100.0,1.00,1.00,,Yes
+means the world,,amplified,intensifier,yes,NA,NA,1,0,1,0,,100.0,1.00,1.00,,Yes
+mad + NOUN,(npr. mad game),amplified,intensifier,yes,NA,NA,1,0,1,0,,100.0,1.00,1.00,,Yes
+probably,,attenuated,uncertainty,yes,NA,NA,7,0,5,2,,100.0,1.00,1.00,,Yes
+rather + ADJ,,amplified,intensifier,yes,NA,NA,11,0,6,5,,100.0,1.00,1.00,,Yes
+foremost,,amplified,intensifier,yes,NA,NA,1,0,1,0,,100.0,1.00,1.00,,Yes
+from time to time,,attenuated,specification,yes,NA,NA,1,0,0,1,,100.0,1.00,1.00,,Yes
+i'd have to say,,attenuated,detensifier,yes,NA,NA,1,0,0,1,,100.0,1.00,1.00,,Yes
+immense,,amplified,intensifier,yes,NA,NA,1,0,1,0,,100.0,1.00,1.00,,Yes
+in a sense,,attenuated,detensifier,yes,NA,NA,1,0,0,1,,100.0,1.00,1.00,,Yes
+not very,,attenuated,detensifier,yes,NA,NA,4,0,2,2,,100.0,1.00,1.00,,Yes
+so to say,,attenuated,detensifier,yes,NA,NA,1,0,1,0,,100.0,1.00,1.00,,Yes
+feel I,,attenuated,uncertainty,no,detensifier,50-50,2,0,2,0,,100.0,1.00,1.00,,Yes
+must,,amplified,generalization,yes,NA,NA,1,0,0,1,,100.0,1.00,1.00,,Yes
+no other way,no way,amplified,certainty,no,intensifier,50-50,1,0,1,0,,100.0,1.00,1.00,,Yes
+no questions asked,,amplified,certainty,no,intensifier,50-50,1,0,1,0,,100.0,1.00,1.00,,Yes
+nobody,,amplified,generalization,yes,NA,NA,1,0,0,1,,100.0,1.00,1.00,,Yes
+sort of,,attenuated,detensifier,yes,NA,NA,3,0,1,2,,100.0,1.00,1.00,,Yes
+specifically,,attenuated,specification,yes,NA,NA,1,0,1,0,,100.0,1.00,1.00,,Yes
+tending,,attenuated,detensifier,yes,NA,NA,1,0,1,0,,100.0,1.00,1.00,,Yes
+obviously,,amplified,intensifier,no,certainty,50-50,1,0,1,0,,100.0,1.00,1.00,,Yes
+occurrences,,attenuated,specification,yes,NA,NA,1,0,1,0,,100.0,1.00,1.00,,Yes
+typically,,attenuated,specification,yes,NA,NA,3,0,2,1,,100.0,1.00,1.00,,Yes
+perfectly,,amplified,intensifier,no,certainty; generealization,50-30-20,3,0,1,2,,100.0,1.00,1.00,,Yes
+aim to,,attenuated,uncertainty,no,detensifier,50-50,1,0,1,0,,100.0,1.00,1.00,,Yes
+don't necessarily,,attenuated,uncertainty,no,detensifier,66-33,1,0,1,0,,100.0,1.00,1.00,,Yes
+no other way,,amplified,generalization,yes,NA,NA,1,0,1,0,,100.0,1.00,1.00,,Yes
+not really,,attenuated,uncertainty,no,intensifier; detensifier,50-25-25,2,0,2,0,,100.0,1.00,1.00,,Yes
+till the day i die,until the day I die,amplified,intensifier,yes,NA,NA,1,0,1,0,,100.0,1.00,1.00,,Yes
+tend to,,attenuated,detensifier,no,uncertainty,75-25,64,3,16,44,,100.0,0.94,0.98,,Yes
+I guess,,attenuated,uncertainty,yes,NA,NA,13,1,7,5,,100.0,0.92,1.00,,Yes
+always,,amplified,generalization,yes,NA,NA,123,10,27,86,,100.0,0.92,1.00,,Yes
+no matter,,amplified,generalization,no,certainty; intensifier,80-15-5,18,1,5,11,,100.0,0.89,0.94,,Yes
+certain things,,attenuated,specification,yes,NA,NA,8,1,4,3,,100.0,0.88,1.00,,Yes
+quite,,amplified,intensifier,yes,NA,NA,7,1,5,1,,100.0,0.86,1.00,,Yes
+any,,amplified,generalization,yes,NA,NA,14,5,9,3,,100.0,0.86,1.21,,Yes
+everyone,,amplified,generalization,yes,NA,NA,31,5,11,15,,100.0,0.84,1.00,,Yes
+sometimes,,attenuated,specification,yes,NA,NA,79,16,57,8,,100.0,0.82,1.03,,Yes
+at times,at ADJ times,attenuated,specification,yes,NA,NA,27,15,15,7,,100.0,0.81,1.37,,Yes
+very,,amplified,intensifier,yes,NA,NA,200,21,61,100,,100.0,0.81,0.91,,Yes
+whenever,,amplified,generalization,yes,NA,NA,5,0,1,3,,100.0,0.80,0.80,,No
+definitely,,amplified,certainty,no,intensifier,80-20,5,1,1,3,,100.0,0.80,1.00,,Yes
+never,,amplified,generalization,yes,NA,NA,43,6,16,18,,100.0,0.79,0.93,,Yes
+huge,,amplified,intensifier,yes,NA,NA,9,1,5,2,,100.0,0.78,0.89,,No
+tendency,,attenuated,detensifier,yes,NA,NA,9,3,5,2,,100.0,0.78,1.11,,Yes
+I think,I also think,attenuated,uncertainty,no,detensifier,90-10,75,12,32,26,,100.0,0.77,0.93,,Yes
+like to think,,attenuated,uncertainty,yes,NA,NA,4,0,3,0,,100.0,0.75,0.75,,No
+everything,,amplified,generalization,yes,NA,NA,40,8,16,14,,100.0,0.75,0.95,,Yes
+no one,,amplified,generalization,yes,NA,NA,4,1,3,0,,100.0,0.75,1.00,,Yes
+I suppose,,attenuated,uncertainty,yes,NA,NA,4,1,1,2,,100.0,0.75,1.00,,Yes
+incredibly,,amplified,intensifier,yes,NA,NA,4,1,0,3,,100.0,0.75,1.00,,Yes
+completely,,amplified,generalization,no,certainty; intensifier,60-25-15,4,1,3,0,,85.0,0.75,1.00,,Yes
+really,,amplified,intensifier,yes,NA,NA,89,19,31,34,,100.0,0.73,0.94,,Yes
+feel like,,attenuated,uncertainty,no,detensifier,55-45,32,9,13,10,,100.0,0.72,1.00,,Yes
+certain situations,,attenuated,specification,yes,NA,NA,7,2,3,2,,100.0,0.71,1.00,,Yes
+feel that,,attenuated,uncertainty,no,detensifier,55-45,16,4,5,6,,100.0,0.69,0.94,,Yes
+certain times,,attenuated,specification,yes,NA,NA,3,0,1,1,,100.0,0.67,0.67,,No
+everyday,,amplified,generalization,yes,NA,NA,3,0,1,1,,100.0,0.67,0.67,,No
+deeply,,amplified,intensifier,yes,NA,NA,3,0,1,1,,100.0,0.67,0.67,,No
+feel as,,attenuated,uncertainty,no,detensifier,55-45,15,1,6,4,,100.0,0.67,0.73,,No
+generally,,amplified,generalization,no,specification; detensifier,80-15-5,9,2,3,3,,80.0,0.67,0.89,,No
+anyone,,amplified,generalization,yes,NA,NA,21,6,8,6,,100.0,0.67,0.95,,Yes
+literally,,amplified,intensifier,yes,NA,NA,3,1,2,0,,100.0,0.67,1.00,,Yes
+super,,amplified,intensifier,yes,NA,NA,6,2,1,3,,100.0,0.67,1.00,,Yes
+i'd say,,attenuated,detensifier,no,uncertainty,60-40,3,1,2,0,,100.0,0.67,1.00,,Yes
+relatively,,attenuated,detensifier,yes,NA,NA,6,2,1,3,,100.0,0.67,1.00,,Yes
+truly,,amplified,intensifier,no,certainty,75-25,6,2,3,1,,100.0,0.67,1.00,,Yes
+pretty + ADJ,,amplified,intensifier,no,detensifier,80-20,21,7,6,8,,80.0,0.67,1.00,,Yes
+every,bez every situation,amplified,generalization,yes,NA,NA,11,4,7,0,,100.0,0.64,1.00,,Yes
+whatever,,amplified,generalization,yes,NA,NA,8,2,2,3,,100.0,0.63,0.88,,No
+try,trying,attenuated,detensifier,no,uncertainty,80-20,62,15,25,13,,100.0,0.61,0.85,,No
+a bit,,attenuated,detensifier,yes,NA,NA,5,1,2,1,,100.0,0.60,0.80,,No
+for the most part,,attenuated,specification,yes,NA,NA,5,1,3,0,,100.0,0.60,0.80,,No
+kind of,,attenuated,detensifier,yes,NA,NA,12,1,3,4,,100.0,0.58,0.67,,No
+I believe,,attenuated,uncertanty,no,detensifier,75-25,17,2,5,4,,100.0,0.53,0.65,,No
+not all,,attenuated,specification,yes,NA,NA,2,0,1,0,,100.0,0.50,0.50,,No
+exactly,,amplified,intensifier,yes,NA,NA,2,0,1,0,,100.0,0.50,0.50,,No
+necessarily,,attenuated,detensifier,yes,NA,NA,2,0,1,0,,100.0,0.50,0.50,,No
+for the things,,attenuated,specification,yes,NA,NA,2,0,0,1,,100.0,0.50,0.50,,No
+not too ADJ,,attenuated,detensifier,yes,NA,NA,2,0,1,0,,100.0,0.50,0.50,,No
+overly,,amplified,intensifier,yes,NA,NA,2,0,1,0,,100.0,0.50,0.50,,No
+ADJ situations,bez positive/negative i prethodno navedenih,attenuated,specification,yes,NA,NA,8,1,2,2,,100.0,0.50,0.63,,No
+might,,attenuated,uncertainty,no,detensifier,80-20,8,1,2,2,,100.0,0.50,0.63,,No
+seem,seems,attenuated,uncertainty,no,detensifier,80-20,20,6,4,6,,100.0,0.50,0.80,,No
+don't always,,attenuated,specification,yes,NA,NA,4,2,2,0,,100.0,0.50,1.00,,Yes
+certain people,,attenuated,specification,yes,NA,NA,2,1,0,1,,100.0,0.50,1.00,,Yes
+I'm considered,I am considered,attenuated,uncertainty,no,detensifier,66-33,2,1,1,0,,100.0,0.50,1.00,,Yes
+horrible,,amplified,intensifier,yes,NA,NA,4,2,2,0,,100.0,0.50,1.00,,Yes
+don't ... very much,,attenuated,detensifier,yes,NA,NA,2,1,1,0,,100.0,0.50,1.00,,Yes
+occasions,occasion,attenuated,specification,yes,NA,NA,4,2,2,0,,100.0,0.50,1.00,,Yes
+somewhat,,attenuated,specification,yes,NA,NA,2,1,0,1,,100.0,0.50,1.00,,Yes
+in times,,attenuated,specification,yes,NA,NA,2,1,1,0,,100.0,0.50,1.00,,Yes
+times in my life,,attenuated,specification,yes,NA,NA,2,1,0,1,,100.0,0.50,1.00,,Yes
+all,,amplified,generalization,no,intensifier,90-10,33,17,12,4,,100.0,0.48,1.00,,Yes
+may,,attenuated,uncertainty,no,detensifier,75-25,24,10,6,5,,100.0,0.46,0.88,,No
+constantly,,amplified,generalization,no,certainty,85-15,9,5,4,0,,100.0,0.44,1.00,,Yes
+anything,,amplified,generalization,yes,NA,NA,30,17,6,7,,100.0,0.43,1.00,,Yes
+genuinely,,amplified,intensifier,no,certainty,55-45,7,3,3,0,,100.0,0.43,0.86,,No
+nothing,,amplified,generalization,yes,NA,NA,7,3,2,1,,100.0,0.43,0.86,,No
+way ADJ,,amplified,intensifier,yes,NA,NA,5,1,0,2,,100.0,0.40,0.60,,No
+a little,"includes a little bit, needs to exclude ""a little girl/ boy""",attenuated,detensifier,yes,NA,NA,15,5,3,3,,100.0,0.40,0.73,,No
+don't think,,attenuated,uncertainty,yes,NA,NA,10,4,1,3,,100.0,0.40,0.80,,No
+regardless,,amplified,generalization,no,intenisfier,50-50,5,2,2,0,,100.0,0.40,0.80,,No
+see myself as,,attenuated,detensifier,no,uncertainty,70-30,5,2,1,1,,100.0,0.40,0.80,,No
+almost,,attenuated,specification,no,detensifier,60-30,10,5,4,0,,100.0,0.40,0.90,,No
+SUPERLATIVESHORT-FORM,"superlative forms of short adjectives, like biggest, strongest",amplified,intensifier,yes,NA,NA,15,9,6,0,"po kriterijima neće proći, ali ja mislim da treba; makar, često bude i random, npr. my closest friends",100.0,0.40,1.00,,Yes
+impossible,,amplified,certainty,yes,NA,NA,5,3,2,0,,100.0,0.40,1.00,,Yes
+in a way,,attenuated,detensifier,no,specification,80-20,5,3,1,1,,100.0,0.40,1.00,,Yes
+a lot,alot,amplified,intensifier,yes,NA,NA,83,39,19,14,,100.0,0.40,0.87,,No
+too ADJ,,amplified,intensifier,yes,NA,NA,40,19,11,4,,100.0,0.38,0.85,,No
+usually,,attenuated,specification,no,detensifier,80-20,20,10,7,0,,100.0,0.35,0.85,,No
+so ADJ,,amplified,intensifier,yes,NA,NA,41,16,12,2,,100.0,0.34,0.73,,No
+think of myself,,attenuated,detensifier,no,uncertainty,50-50,3,0,1,0,,100.0,0.33,0.33,,No
+personally,,attenuated,detensifier,yes,NA,NA,3,0,1,0,,100.0,0.33,0.33,,No
+some,,attenuated,specification,yes,NA,NA,36,9,8,4,,100.0,0.33,0.58,,No
+amazing,,amplified,intensifier,yes,NA,NA,6,2,1,1,,100.0,0.33,0.67,,No
+come off,,attenuated,detensifier,yes,NA,NA,3,1,1,0,,100.0,0.33,0.67,,No
+maybe,may be,attenuated,uncertainty,yes,NA,NA,9,3,3,0,,100.0,0.33,0.67,,No
+in general,,amplified,generalization,yes,NA,NA,6,2,2,0,,100.0,0.33,0.67,,No
+everybody,,amplified,generalization,yes,NA,NA,3,2,1,0,,100.0,0.33,1.00,,Yes
+CAPS LOCK,,amplified,intensifier,yes,NA,NA,3,2,1,0,,100.0,0.33,1.00,,Yes
+terrible,,amplified,intensifier,yes,NA,NA,3,2,1,0,,100.0,0.33,1.00,,Yes
+whoever,,amplified,generalization,yes,NA,NA,3,2,0,1,,100.0,0.33,1.00,,Yes
+hate,hated,amplified,intensifier,yes,NA,NA,19,12,6,0,,100.0,0.32,0.95,,Yes
+even if,,amplified,intensifier,no,specification,80-20,13,7,4,0,,80.0,0.31,0.85,,No
+great,,amplified,intensifier,yes,NA,NA,20,2,6,0,,100.0,0.30,0.40,,No
+overall,,amplified,generalization,yes,NA,NA,11,2,3,0,,100.0,0.27,0.45,,No
+when,,attenuated,specification,yes,NA,NA,156,47,35,7,vidi kako ga možda razbiti na ngrame koji sadrže when,100.0,0.27,0.57,,No
+can,,attenuated,detensifier,no,uncertainty; specification,84-9-5-1-1-1,159,29,25,17,,100.0,0.26,0.45,,No
+known,,attenuated,detensifier,yes,NA,NA,4,2,1,0,,100.0,0.25,0.75,,No
+complete (AS AN ADJ),"just as and adj (e.g., complete trurth), not as a verb",amplified,generalization,no,intensifier,60-40,4,3,1,0,,100.0,0.25,1.00,,Yes
+would,,attenuated,detensifier,no,uncertainty,60-40,87,11,10,9,,100.0,0.22,0.34,,No
+if,,attenuated,specification,no,detensifier; uncertainty; intensifier; generalization,77-10-4-4-1,90,29,14,5,,99.0,0.21,0.53,,No
+just ,,amplified,intensifier,no,certainty,90-10,68,26,14,0,,100.0,0.21,0.59,,No
+find that,,attenuated,detensifier,no,uncertainty,50-50,5,0,1,0,,100.0,0.20,0.20,,No
+unless,,attenuated,specification,yes,NA,NA,5,1,1,0,,100.0,0.20,0.40,,No
+sure,,amplified,certainty,yes,NA,NA,10,5,1,1,,100.0,0.20,0.70,,No
+that + adj,,amplified,intensifier,no,detensifier; specification,60-20-20,5,3,1,0,,100.0,0.20,0.80,,No
+actually,,amplified,intensifier,no,certainty,60-40,11,1,2,0,"better to not have it because it can also be attenuated ""I procrastinate a lot actually but I ...""",100.0,0.18,0.27,,No
+I consider,,attenuated,detensifier,no,uncertainty,60-40,11,4,2,0,,100.0,0.18,0.55,,No
+much,,amplified,intensifier,yes,NA,NA,35,11,3,3,,100.0,0.17,0.49,,No
+around people,around ADJ people; around PERSON-DENOTING-NOUN,attenuated,specification,yes,NA,NA,12,1,1,1,,100.0,0.17,0.25,,No
+impression,,attenuated,detensifier,yes,NA,NA,6,1,1,0,,100.0,0.17,0.33,,No
+whether,,amplified,generalization,yes,NA,NA,6,5,1,0,,100.0,0.17,1.00,,Yes
+to the point,,amplified,intensifier,yes,NA,NA,6,5,1,0,,100.0,0.17,1.00,,Yes
+even,,amplified,intensifier,yes,NA,NA,31,21,5,0,,100.0,0.16,0.84,,No
+could,exclude wish I could,attenuated,uncertainty,no,detensifier,65-35,31,5,4,0,,100.0,0.13,0.29,,No
+conisder myself,,attenuated,detensifier,no,uncertainty,66-33,8,1,1,0,,100.0,0.13,0.25,,No
+such as,,attenuated,specification,yes,NA,NA,8,1,1,0,,100.0,0.13,0.25,,No
+most of the time,most times,attenuated,specification,yes,NA,NA,8,2,1,0,,100.0,0.13,0.38,,No
+without,,amplified,certainty,no,intensifier,80-20,18,3,1,1,,100.0,0.11,0.28,,No
+hoestly,,amplified,intensifier,yes,NA,NA,9,6,1,0,,100.0,0.11,0.78,,No
+I know I,I know that; I know what; I know how,amplified,certainty,no,intensifier,90-10,30,10,3,0,,100.0,0.10,0.43,,No
+find it,,attenuated,detensifier,yes,NA,NA,10,5,1,0,,100.0,0.10,0.60,,No
+fact,,amplified,certainty,no,generalization,90-10,30,16,3,0,,100.0,0.10,0.63,,No
+while,,attenuated,specification,no,detensifier,80-20,13,2,1,0,,100.0,0.08,0.23,,No
+once,,attenuated,specification,yes,NA,NA,13,3,1,0,,100.0,0.08,0.31,,No
+best,"exclude best friends, friends",amplified,intensifier,no,generalization,90-10,42,14,3,0,,100.0,0.07,0.40,,No
+until,,amplified,intensifier,no,certainty,90-10,15,7,1,0,,100.0,0.07,0.53,,No
+most,,amplified,intensifier,yes,NA,NA,110,29,7,0,,100.0,0.06,0.33,,No
+should,,attenuated,detensifier,no,specification; uncertainty,40-40-20,18,4,1,0,,100.0,0.06,0.28,,No
+many,,amplified,intensifier,no,specification,90-10,50,23,2,0,,90.0,0.04,0.50,,No
+someone,,attenuated,specification,yes,NA,NA,57,5,1,0,,100.0,0.02,0.11,,No
+with,,attenuated,specification,yes,NA,NA,180,3,2,1,,100.0,0.02,0.03,,No
+love,,amplified,intensifier,yes,NA,NA,61,9,1,0,,100.0,0.02,0.16,,No
+more,,amplified,intensifier,yes,NA,NA,68,10,1,0,,100.0,0.01,0.16,,No
+something,,attenuated,specification,yes,NA,NA,75,15,1,0,,100.0,0.01,0.21,,No
+about,,attenuated,specification,yes,NA,NA,257,7,0,1,,100.0,0.00,0.03,,No
+although,,attenuated,detensifier,yes,NA,NA,6,,0,0,,100.0,0.00,0.00,,No
+end up,ends up,amplified,certainty,yes,NA,NA,10,2,0,0,,100.0,0.00,0.20,,No
+but,,attenuated,detensifier,no,specification,75-25,152,4,0,0,,100.0,0.00,0.03,,No
+easily,,amplified,intensifier,yes,NA,NA,32,1,0,0,,100.0,0.00,0.03,,No
+able to,not able to; not be able to; not being able to; unable to,amplified,intensifier,no,generalization,50-50,34,2,0,0,,100.0,0.00,0.06,,No
+act,,attenuated,detensifier,yes,NA,NA,12,1,0,0,,100.0,0.00,0.08,,No
+however,,attenuated,detensifier,yes,NA,NA,12,1,0,0,,100.0,0.00,0.08,,No
+act,,attenuated,detensifier,yes,NA,NA,12,1,0,0,,100.0,0.00,0.08,,No
+proud,,amplified,intensifier,yes,NA,NA,11,1,0,0,,100.0,0.00,0.09,,No
+though,,attenuated,detensifier,yes,NA,NA,10,1,0,0,,100.0,0.00,0.10,,No
+favorite,,amplified,intensifier,yes,NA,NA,7,1,0,0,,100.0,0.00,0.14,,No
+had to,,amplified,intensifier,yes,NA,NA,6,1,0,0,,100.0,0.00,0.17,,No
+each,"excluding ""each other""",amplified,generalization,yes,NA,NA,5,1,0,0,,100.0,0.00,0.20,,No
+how much,,amplified,intensifier,yes,NA,NA,5,1,0,0,,100.0,0.00,0.20,,No
+won't,,amplified,generalization,no,certainty,50-50,10,2,0,0,,100.0,0.00,0.20,,No
+lack of,,amplified,generalization,yes,NA,NA,10,2,0,0,,100.0,0.00,0.20,,No
+instead,,amplified,intensifier,yes,NA,NA,5,1,0,0,,100.0,0.00,0.20,,No
+ADJ person,,amplified,generalization,yes,NA,NA,46,11,0,0,,100.0,0.00,0.24,,No
+ADJ personality,,amplified,generalization,yes,NA,NA,8,2,0,0,,100.0,0.00,0.25,,No
+I'm working on ,,attenuated,detensifier,yes,NA,NA,4,1,0,0,,100.0,0.00,0.25,,No
+ruins,ruins; ruined,amplified,intensifier,yes,NA,NA,4,1,0,0,,100.0,0.00,0.25,,No
+somewhere,,attenuated,specification,yes,NA,NA,4,1,0,0,,100.0,0.00,0.25,,No
+I don't know,,attenuated,uncertainty,yes,NA,NA,13,4,0,0,,100.0,0.00,0.31,,No
+ADJ individual,,amplified,generalization,yes,NA,NA,3,1,0,0,,100.0,0.00,0.33,,No
+a couple of,,attenuated,specification,yes,NA,NA,3,1,0,0,,100.0,0.00,0.33,,No
+or even,,amplified,intensifier,yes,NA,NA,3,1,0,0,,100.0,0.00,0.33,,No
+full,,amplified,certainty,no,intensifier,50-50,6,2,0,0,,100.0,0.00,0.33,,No
+immediately,,amplified,intensifier,yes,NA,NA,3,1,0,0,,100.0,0.00,0.33,,No
+still,,amplified,intensifier,yes,NA,NA,19,7,0,0,,100.0,0.00,0.37,,No
+only,,amplified,intensifier,yes,NA,NA,18,8,0,0,,100.0,0.00,0.44,,No
+a great deal,,amplified,intensifier,yes,NA,NA,2,1,0,0,,100.0,0.00,0.50,,No
+a level of,,attenuated,specification,yes,NA,NA,2,1,0,0,,100.0,0.00,0.50,,No
+as being,,amplified,generalization,yes,NA,NA,2,1,0,0,,100.0,0.00,0.50,,No
+not ... SUPERLATIVESHORT-FORM,,attenuated,detensifier,yes,NA,NA,2,1,0,0,,100.0,0.00,0.50,,No
+don't really,,attenuated,detensifier,yes,NA,NA,2,1,0,0,,100.0,0.00,0.50,,No
+for example,,attenuated,specification,yes,NA,NA,6,3,0,0,,100.0,0.00,0.50,,No
+minimal,,amplified,intensifier,yes,NA,NA,2,1,0,0,,100.0,0.00,0.50,,No
+the way i see,,attenuated,detensifier,yes,NA,NA,2,1,0,0,,100.0,0.00,0.50,,No
+ridiculous,,amplified,intensifier,yes,NA,NA,2,1,0,0,,100.0,0.00,0.50,,No
+strive,,amplified,intensifier,yes,NA,NA,2,1,0,0,,100.0,0.00,0.50,,No
+potentially,,attenuated,uncertainty,yes,NA,NA,2,1,0,0,,100.0,0.00,0.50,,No
+throughout,,amplified,intensifier,yes,NA,NA,6,3,0,0,,100.0,0.00,0.50,,No
+to be honest,,amplified,intensifier,yes,NA,NA,2,1,0,0,,100.0,0.00,0.50,,No
+I cannot,I can't,amplified,intensifier,no,certainty; generalization,75-12-12,11,6,0,0,,100.0,0.00,0.55,,No
+how ADJ,,amplified,intensifier,yes,NA,NA,27,15,0,0,,100.0,0.00,0.56,,No
+simply,,amplified,intensifier,yes,NA,NA,5,3,0,0,,100.0,0.00,0.60,,No
+not always,always not; not ...always; možda i don't i can't možemo dobiti tako što ćemo razdvojiti skraćene oblike u npr. do not,attenuated,specification,yes,NA,NA,3,2,0,0,,100.0,0.00,0.67,,No
+with confidence,,amplified,certainty,yes,NA,NA,3,2,0,0,,100.0,0.00,0.67,,No
+will power,,amplified,generalization,yes,NA,NA,3,2,0,0,,100.0,0.00,0.67,,No
+for some reason,,attenuated,detensifier,yes,NA,NA,3,2,0,0,,100.0,0.00,0.67,,No
+oftentimes,,amplified,generalization,no,specification,80-20,7,5,0,0,,80.0,0.00,0.71,,No
+admire,,amplified,intensifier,yes,NA,NA,4,3,0,0,,100.0,0.00,0.75,,No
+!,!!! (different number of !),amplified,intensifier,yes,NA,NA,5,4,0,0,,100.0,0.00,0.80,,No
+I pride,I take pride,amplified,intensifier,yes,NA,NA,5,4,0,0,,100.0,0.00,0.80,,No
+of course,,amplified,certainty,yes,NA,NA,5,4,0,0,,100.0,0.00,0.80,,No
+". Man, ","Man, ; , man, ",amplified,intensifier,yes,NA,NA,2,2,0,0,,100.0,0.00,1.00,,Yes
+<100%,anything less than 100%,attenuated,specification,yes,NA,NA,1,1,0,0,,100.0,0.00,1.00,,Yes
+a daily basis,,amplified,generalization,yes,NA,NA,1,1,0,0,,100.0,0.00,1.00,,Yes
+a dead body,,amplified,intensifier,yes,NA,NA,1,1,0,0,,100.0,0.00,1.00,,Yes
+a funny thing,,attenuated,detensifier,yes,NA,NA,1,1,0,0,,100.0,0.00,1.00,,Yes
+above and beyond,,amplified,intensifier,yes,NA,NA,1,1,0,0,,100.0,0.00,1.00,,Yes
+absolute,,amplified,intensifier,yes,NA,NA,1,1,0,0,,100.0,0.00,1.00,,Yes
+situational,,attenuated,specification,yes,NA,NA,1,1,0,0,,100.0,0.00,1.00,,Yes
+can't always,,attenuated,specification,yes,NA,NA,1,1,0,0,,100.0,0.00,1.00,,Yes
+anywhere,,amplified,generalization,yes,NA,NA,2,2,0,0,,100.0,0.00,1.00,,Yes
+more than anything,,amplified,intensifier,yes,NA,NA,1,1,0,0,,100.0,0.00,1.00,,Yes
+at what I,,attenuated,specification,yes,NA,NA,1,1,0,0,,100.0,0.00,1.00,,Yes
+because this is me,,attenuated,detensifier,yes,NA,NA,1,1,0,0,prerandom i premalo spominjanja da ostane u rječniku,100.0,0.00,1.00,,Yes
+certain work,,attenuated,specification,yes,NA,NA,1,1,0,0,,100.0,0.00,1.00,,Yes
+challenging,,attenuated,detensifier,yes,NA,NA,1,1,0,0,,100.0,0.00,1.00,,Yes
+constant,,amplified,generalization,yes,NA,NA,3,3,0,0,,100.0,0.00,1.00,,Yes
+consumes me,,amplified,intensifier,yes,NA,NA,1,1,0,0,,100.0,0.00,1.00,,Yes
+continuously,,amplified,intensifier,yes,NA,NA,1,1,0,0,,100.0,0.00,1.00,,Yes
+could not,couldn't,amplified,intensifier,yes,NA,NA,1,1,0,0,,100.0,0.00,1.00,,Yes
+gifted,,amplified,intensifier,yes,NA,NA,1,1,0,0,,100.0,0.00,1.00,,Yes
+go out of my way to,,amplified,intensifier,yes,NA,NA,1,1,0,0,,100.0,0.00,1.00,,Yes
+horribly,,amplified,intensifier,yes,NA,NA,1,1,0,0,,100.0,0.00,1.00,,Yes
+fairly,,attenuated,detensifier,no,NA,NA,2,2,0,0,,100.0,0.00,1.00,,Yes
+fantastic,,amplified,intensifier,yes,NA,NA,1,1,0,0,,100.0,0.00,1.00,,Yes
+not everyone,,attenuated,specification,yes,NA,NA,1,1,0,0,,100.0,0.00,1.00,,Yes
+entire,,amplified,generalization,yes,NA,NA,1,1,0,0,,100.0,0.00,1.00,,Yes
+either ... or,,amplified,generalization,yes,NA,NA,2,2,0,0,,100.0,0.00,1.00,,Yes
+crazy,,amplified,intensifier,yes,NA,NA,1,1,0,0,,100.0,0.00,1.00,,Yes
+detrimental,,amplified,intensifier,yes,NA,NA,1,1,0,0,,100.0,0.00,1.00,,Yes
+I am certain,I'm certain,amplified,certainty,yes,NA,NA,1,1,0,0,,100.0,0.00,1.00,,Yes
+I am confident that,I'm confident that,amplified,certainty,yes,NA,NA,1,1,0,0,,100.0,0.00,1.00,,Yes
+or else,,amplified,intensifier,yes,NA,NA,1,1,0,0,,100.0,0.00,1.00,,Yes
+for days,,amplified,intensifier,yes,NA,NA,1,1,0,0,,100.0,0.00,1.00,,Yes
+for hours,,amplified,intensifier,yes,NA,NA,2,2,0,0,,100.0,0.00,1.00,,Yes
+general,,amplified,generalization,yes,NA,NA,1,1,0,0,,100.0,0.00,1.00,,Yes
+been told,,attenuated,uncertainty,yes,NA,NA,2,2,0,0,,100.0,0.00,1.00,,Yes
+I provide,,amplified,certainty,yes,NA,NA,1,1,0,0,,100.0,0.00,1.00,,Yes
+stupid + NOUN,,amplified,intensifier,yes,NA,NA,2,2,0,0,,100.0,0.00,1.00,,Yes
+such a,,amplified,intensifier,yes,NA,NA,1,1,0,0,,100.0,0.00,1.00,,Yes
+"in (any) way(,) shape or form",,amplified,generalization,yes,NA,NA,1,1,0,0,,100.0,0.00,1.00,,Yes
+in part,,attenuated,specification,yes,NA,NA,1,1,0,0,,100.0,0.00,1.00,,Yes
+minimum,,amplified,intensifier,yes,NA,NA,1,1,0,0,,100.0,0.00,1.00,,Yes
+not much,,attenuated,detensifier,yes,NA,NA,1,1,0,0,,100.0,0.00,1.00,,Yes
+see as,seen as,attenuated,detensifier,yes,NA,NA,2,2,0,0,,100.0,0.00,1.00,,Yes
+not to seem,,attenuated,detensifier,yes,NA,NA,1,1,0,0,,100.0,0.00,1.00,,Yes
+somehow,,attenuated,detensifier,yes,NA,NA,1,1,0,0,,100.0,0.00,1.00,,Yes
+inevitable,,amplified,certainty,yes,NA,NA,1,1,0,0,,100.0,0.00,1.00,,Yes
+inherent,,amplified,intensifier,yes,NA,NA,1,1,0,0,,100.0,0.00,1.00,,Yes
+instantly,,amplified,intensifier,yes,NA,NA,1,1,0,0,,100.0,0.00,1.00,,Yes
+nowhere,,amplified,generalization,yes,NA,NA,1,1,0,0,,100.0,0.00,1.00,,Yes
+occasionally,,attenuated,specification,yes,NA,NA,1,1,0,0,,100.0,0.00,1.00,,Yes
+unavoidable,,amplified,certainty,yes,NA,NA,1,1,0,0,,100.0,0.00,1.00,,Yes
+perhaps,,attenuated,uncertainty,yes,NA,NA,1,1,0,0,,100.0,0.00,1.00,,Yes
+plenty,,amplified,intensifier,yes,NA,NA,1,1,0,0,,100.0,0.00,1.00,,Yes
+thus far,,attenuated,detensifier,yes,NA,NA,1,1,0,0,,100.0,0.00,1.00,,Yes
+". To me,",,attenuated,detensifier,yes,NA,NA,1,1,0,0,,100.0,0.00,1.00,,Yes
+seldom,,attenuated,specification,yes,NA,NA,1,1,0,0,,100.0,0.00,1.00,,Yes
+over and over again,,amplified,intensifier,yes,NA,NA,1,1,0,0,,100.0,0.00,1.00,,Yes
+or else,,amplified,intensifier,yes,NA,NA,1,1,0,0,,100.0,0.00,1.00,,Yes
+not that + adj,,attenuated,detensifier,yes,NA,NA,2,2,0,0,,100.0,0.00,1.00,,Yes
+that I am aware of,,attenuated,specification,yes,NA,NA,1,1,0,0,,100.0,0.00,1.00,,Yes
+that sounds,,attenuated,detensifier,yes,NA,NA,1,1,0,0,,100.0,0.00,1.00,,Yes
+this + adj,,amplified,intensifier,yes,NA,NA,1,1,0,0,,100.0,0.00,1.00,,Yes
